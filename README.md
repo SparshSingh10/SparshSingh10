@@ -16,6 +16,7 @@
 <a href="https://instagram.com/thecosmicnerd26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecosmicnerd26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXy_Ch_ekQ6Ap_IqVQ6egCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sparsh singh vlogs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sparsh262002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sparsh singh" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sparsh262002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparsh262002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
