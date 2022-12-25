@@ -16,7 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 - 📫 How to reach me **sparsh262002@gmail.com**
 
-<h3 style="color:blue;"align="left">Connect with me:</h3>
+<h3 style="color:blue"align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thecosmicnerd26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecosmicnerd26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXy_Ch_ekQ6Ap_IqVQ6egCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sparsh singh vlogs" height="30" width="40" /></a>
