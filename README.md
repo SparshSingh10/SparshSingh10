@@ -14,6 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 💬 Ask me about **Web development , Html , Css , javascript , Leetcode , hakerank , NodeJs , express , jQuery , MySQL , Bootstrap**
 - <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsingh10&show_icons=true&theme=gotham" alt="sparshsingh10" /></p>
 
 - 📫 How to reach me **sparsh262002@gmail.com**
 
