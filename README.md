@@ -29,8 +29,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br>
 <br>
-<br>
-<br>
 <hr>
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsingh10&show_icons=true&theme=gotham" alt="sparshsingh10" /></span>
 
