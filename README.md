@@ -30,8 +30,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 <br>
 <hr>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsingh10&show_icons=true&theme=gotham" alt="sparshsingh10" /></span>
+<p  style="display:inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsingh10&show_icons=true&theme=gotham" alt="sparshsingh10" /></p>
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsingh10&show_icons=true&locale=en&layout=compact" alt="sparshsingh10" /></span>
+<p style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsingh10&show_icons=true&locale=en&layout=compact" alt="sparshsingh10" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SparshSingh10&show_icons=true&theme=gotham" alt="SparshSingh10" /> -->
 
