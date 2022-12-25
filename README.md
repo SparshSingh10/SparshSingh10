@@ -1,7 +1,7 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sparsh Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshsingh10&label=Profile%20views&color=0e75b6&style=flat" alt="sparshsingh10" /> </p>
 
@@ -13,6 +13,7 @@ hi, i'm Sparsh Singh, a passionate self-taught full stack web developer and a Co
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 💬 Ask me about **Web development , Html , Css , javascript , Leetcode , hakerank**
+- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 📫 How to reach me **sparsh262002@gmail.com**
 
